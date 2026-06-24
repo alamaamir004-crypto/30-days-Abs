@@ -1,0 +1,6 @@
+{
+  "name": "30 Days Abs Workout",
+  "description": "An interactive 30-day abs workout challenge with a workout player, schedule manager, progress tracker, and core exercise guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
